@@ -1,5 +1,6 @@
 import React from 'react'
 import {BsFacebook, BsInstagram, BsLinkedin, BsTwitter} from "react-icons/bs";
+
 const HeaderTop = () => {
   return (
     <div className='border-b border-gray-200 hidden sm:block'>
