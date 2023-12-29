@@ -21,7 +21,7 @@ const HeaderMain = () => {
 
         </div>
 
-        <div className='hidden lg:flex gap-4 text-gray-500 text-[30px] mr-9'>
+        <div className='hidden lg:flex gap-4 text-gray-500 text-[30px] mr-14'>
             <BiUser />
 
             <div className='relative'>

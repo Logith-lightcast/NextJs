@@ -25,7 +25,7 @@ const HeaderTop = () => {
                     <b>FREE SHIPPING</b> THIS WEEK ORDER OVER - $55
                 </div>
 
-                <div className='flex gap-4' style={{marginRight:'20px'}}>
+                <div className='flex gap-4' style={{marginRight:'50px'}}>
                     <select
                     className='text-gray-500 text-[12px] w-[70px]'
                     name='currency'
